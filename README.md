@@ -3,5 +3,5 @@
 
  
 
-![Hossein's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hosseincpl&show_icons=True&theme=dark)
+![Hossein's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hosseincpl&show_icons=True&theme=tokyonight)
 
